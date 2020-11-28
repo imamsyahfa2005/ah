@@ -1,5 +1,5 @@
 # CHOPER-BOT
-BOT WHATSAPP TERMUX ONLY BY ARIS187 ID
+BOT WHATSAPP TERMUX ONLY 
 
 ### Alat dan Bahan
 Siapin alat dan bahannya.
