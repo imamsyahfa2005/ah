@@ -1,5 +1,5 @@
 /*
-* "Jangan modal nama doang bro!!!"
+* "UPDATE"
 */
 const BotName = 'Choper'; // Nama Bot Whatsapp
 const instagramlu = 'https://instagram.com/_sadboy.ig'; // Nama Instagramlu cok
@@ -115,37 +115,37 @@ conn.sendMessage(id ,`${gg} ${exists ? " exists " : " does not exist"} on WhatsA
 
 //Chat A187 ID
 else if (text == '!help'){
-conn.sendMessage(id, 'LU SALAH KOMEN BEGEE, YANG BENER =help..' ,MessageType.text);
+conn.sendMessage(id, 'LU SALAH KOMEN BEGEE, YANG BENER >help..' ,MessageType.text);
 }
 else if (text == '#menu'){
-conn.sendMessage(id, 'LU SALAH KOMEN BEGEE, YANG BENER =help..' ,MessageType.text);
+conn.sendMessage(id, 'LU SALAH KOMEN BEGEE, YANG BENER >help..' ,MessageType.text);
 }
 else if (text == '!menu'){
-conn.sendMessage(id, 'LU SALAH KOMEN BEGEE, YANG BENER =help..' ,MessageType.text);
+conn.sendMessage(id, 'LU SALAH KOMEN BEGEE, YANG BENER >help..' ,MessageType.text);
 }
 else if (text == '#help'){
-conn.sendMessage(id, 'LU SALAH KOMEN BEGEE, YANG BENER =help..' ,MessageType.text);
+conn.sendMessage(id, 'LU SALAH KOMEN BEGEE, YANG BENER >help..' ,MessageType.text);
 }
 else if (text == 'Imam'){
 conn.sendMessage(id, 'cari imam yah kak?, chat dia aja kakk 085779386736..' ,MessageType.text);
 }
 else if (text == 'Assalamualaikum'){
-conn.sendMessage(id, 'Waalaikumsalam, ada yang bisa saya bantu? kalo bingung ketik =help ya say..' ,MessageType.text);
+conn.sendMessage(id, 'Waalaikumsalam, ada yang bisa saya bantu? kalo bingung ketik >help ya say..' ,MessageType.text);
 }
 else if (text == 'assalamualaikum'){
-conn.sendMessage(id, 'Waalaikumsalam, ada yang bisa saya bantu? kalo bingung ketik =help ya say..' ,MessageType.text);
+conn.sendMessage(id, 'Waalaikumsalam, ada yang bisa saya bantu? kalo bingung ketik >help ya say..' ,MessageType.text);
 }
 else if (text == 'p'){
-conn.sendMessage(id, 'Ya?, ada yang bisa saya bantu? kalo bingung ketik =help ya say..' ,MessageType.text);
+conn.sendMessage(id, 'Ya?, ada yang bisa saya bantu? kalo bingung ketik >help ya say..' ,MessageType.text);
 }
 else if (text == 'P'){
-conn.sendMessage(id, 'Ya?, ada yang bisa saya bantu? kalo bingung ketik =help ya say..' ,MessageType.text);
+conn.sendMessage(id, 'Ya?, ada yang bisa saya bantu? kalo bingung ketik >help ya say..' ,MessageType.text);
 }
 else if (text == 'halo'){
-conn.sendMessage(id, 'Ya?, ada yang bisa saya bantu? kalo bingung ketik =help ya say..' ,MessageType.text);
+conn.sendMessage(id, 'Ya?, ada yang bisa saya bantu? kalo bingung ketik >help ya say..' ,MessageType.text);
 }
 else if (text == 'hai'){
-conn.sendMessage(id, 'Ya?, ada yang bisa saya bantu? kalo bingung ketik =help ya say..' ,MessageType.text);
+conn.sendMessage(id, 'Ya?, ada yang bisa saya bantu? kalo bingung ketik >help ya say..' ,MessageType.text);
 }
 else if (text == 'imam'){
 conn.sendMessage(id, 'CARI IMAM YAH KAK?, INI CHAT DIA AJA 085779386736..' ,MessageType.text);
@@ -154,16 +154,16 @@ else if (text == 'Imam'){
 conn.sendMessage(id, 'CARI IMAM YAH KAK?, INI CHAT DIA AJA 085779386736..' ,MessageType.text);
 }
 else if (text == 'woy'){
-conn.sendMessage(id, 'Ya?, ada yang bisa saya bantu? kalo bingung ketik =help ya say..' ,MessageType.text);
+conn.sendMessage(id, 'Ya?, ada yang bisa saya bantu? kalo bingung ketik >help ya say..' ,MessageType.text);
 }
 else if (text == 'hi'){
-conn.sendMessage(id, 'Ya?, ada yang bisa saya bantu? kalo bingung ketik =help ya say..' ,MessageType.text);
+conn.sendMessage(id, 'Ya?, ada yang bisa saya bantu? kalo bingung ketik >help ya say..' ,MessageType.text);
 }
 else if (text == 'gan'){
-conn.sendMessage(id, 'Ya?, ada yang bisa saya bantu? kalo bingung ketik =help ya say..' ,MessageType.text);
+conn.sendMessage(id, 'Ya?, ada yang bisa saya bantu? kalo bingung ketik >help ya say..' ,MessageType.text);
 }
 else if (text == 'sis'){
-conn.sendMessage(id, 'Ya?, ada yang bisa saya bantu? kalo bingung ketik =help ya say..' ,MessageType.text);
+conn.sendMessage(id, 'Ya?, ada yang bisa saya bantu? kalo bingung ketik >help ya say..' ,MessageType.text);
 }
 else if (text == 'kontol'){
 conn.sendMessage(id, 'wih bang jago keluar nih, atuh jangan toxic ngâb banyak anak kecil udh dewasa kan?..' ,MessageType.text);
@@ -184,31 +184,31 @@ else if (text == 'anjg'){
 conn.sendMessage(id, 'wih bang jago keluar nih, atuh jangan toxic ngâb banyak anak kecil udh dewasa kan?..' ,MessageType.text);
 }
 else if (text == 'bro'){
-conn.sendMessage(id, 'Ya?, ada yang bisa saya bantu? kalo bingung ketik =help ya say..' ,MessageType.text);
+conn.sendMessage(id, 'Ya?, ada yang bisa saya bantu? kalo bingung ketik >help ya say..' ,MessageType.text);
 }
 else if (text == 'min'){
-conn.sendMessage(id, 'Ya?, ada yang bisa saya bantu? kalo bingung ketik =help ya say..' ,MessageType.text);
+conn.sendMessage(id, 'Ya?, ada yang bisa saya bantu? kalo bingung ketik >help ya say..' ,MessageType.text);
 }
 else if (text == 'sayang'){
-conn.sendMessage(id, 'Ya?, ada yang bisa saya bantu? kalo bingung ketik =help ya say..' ,MessageType.text);
+conn.sendMessage(id, 'Ya?, ada yang bisa saya bantu? kalo bingung ketik >help ya say..' ,MessageType.text);
 }
 else if (text == 'i love u'){
 conn.sendMessage(id, 'love you too' ,MessageType.text);
 }
 else if (text == 'mas'){
-conn.sendMessage(id, 'Ya?, ada yang bisa saya bantu? kalo bingung ketik =help ya say..' ,MessageType.text);
+conn.sendMessage(id, 'Ya?, ada yang bisa saya bantu? kalo bingung ketik >help ya say..' ,MessageType.text);
 }
 else if (text == 'mba'){
-conn.sendMessage(id, 'Ya?, ada yang bisa saya bantu? kalo bingung ketik =help ya say..' ,MessageType.text);
+conn.sendMessage(id, 'Ya?, ada yang bisa saya bantu? kalo bingung ketik >help ya say..' ,MessageType.text);
 }
 else if (text == 'bre'){
-conn.sendMessage(id, 'Ya?, ada yang bisa saya bantu? kalo bingung ketik =help ya say..' ,MessageType.text);
+conn.sendMessage(id, 'Ya?, ada yang bisa saya bantu? kalo bingung ketik >help ya say..' ,MessageType.text);
 }
 else if (text == 'cuy'){
-conn.sendMessage(id, 'Ya?, ada yang bisa saya bantu? kalo bingung ketik =help ya say..' ,MessageType.text);
+conn.sendMessage(id, 'Ya?, ada yang bisa saya bantu? kalo bingung ketik >help ya say..' ,MessageType.text);
 }
 else if (text == 'euy'){
-conn.sendMessage(id, 'Ya?, ada yang bisa saya bantu? kalo bingung ketik =help ya say..' ,MessageType.text);
+conn.sendMessage(id, 'Ya?, ada yang bisa saya bantu? kalo bingung ketik >help ya say..' ,MessageType.text);
 }
 else if (text == 'makasi'){
 conn.sendMessage(id, 'Sama sama, semoga harimu menyenangkan :)' ,MessageType.text);
@@ -244,52 +244,52 @@ else if (text == 'Bacot'){
 conn.sendMessage(id, 'lu bacot_-' ,MessageType.text);
 }
 else if (text == 'Test'){
-conn.sendMessage(id, 'Test 1,2,3 ketik =help' ,MessageType.text);
+conn.sendMessage(id, 'Test 1,2,3 ketik >help' ,MessageType.text);
 }
 else if (text == 'Hai'){
-conn.sendMessage(id, 'Ya?, Ketik =help/=info/=donasi Contoh =help' ,MessageType.text);
+conn.sendMessage(id, 'Ya?, Ketik >help/>info/>donasi Contoh >help' ,MessageType.text);
 }
 else if (text == 'Woi'){
-conn.sendMessage(id, 'Ya?, Ketik =help/=info/=donasi Contoh =help' ,MessageType.text);
+conn.sendMessage(id, 'Ya?, Ketik >help/>info/>donasi Contoh >help' ,MessageType.text);
 }
 else if (text == 'Eoy'){
-conn.sendMessage(id, 'Ya?, Ketik =help/=info/=donasi Contoh =help' ,MessageType.text);
+conn.sendMessage(id, 'Ya?, Ketik >help/>info/>donasi Contoh >help' ,MessageType.text);
 }
 else if (text == 'Hi'){
-conn.sendMessage(id, 'Ya?, Ketik =help/=info/=donasi Contoh =help' ,MessageType.text);
+conn.sendMessage(id, 'Ya?, Ketik >help/>info/>donasi Contoh >help' ,MessageType.text);
 }
 else if (text == 'Gan'){
-conn.sendMessage(id, 'Ya?, Ketik =help/=info/=donasi Contoh =help' ,MessageType.text);
+conn.sendMessage(id, 'Ya?, Ketik >help/>info/>donasi Contoh >help' ,MessageType.text);
 }
 else if (text == 'Sis'){
-conn.sendMessage(id, 'Ya?, Ketik =help/=info/=donasi Contoh =help' ,MessageType.text);
+conn.sendMessage(id, 'Ya?, Ketik >help/>info/>donasi Contoh >help' ,MessageType.text);
 }
 else if (text == 'Bro'){
-conn.sendMessage(id, 'Ya?, Ketik =help/=info/=donasi Contoh =help' ,MessageType.text);
+conn.sendMessage(id, 'Ya?, Ketik >help/>info/>donasi Contoh >help' ,MessageType.text);
 }
 else if (text == 'Min'){
-conn.sendMessage(id, 'Ya?, Ketik =help/=info/=donasi Contoh =help' ,MessageType.text);
+conn.sendMessage(id, 'Ya?, Ketik >help/>info/>donasi Contoh >help' ,MessageType.text);
 }
 else if (text == 'Sayang'){
-conn.sendMessage(id, 'Ya?, Ketik =help/=info/=donasi Contoh >help' ,MessageType.text);
+conn.sendMessage(id, 'Ya?, Ketik >help/>info/>donasi Contoh >help' ,MessageType.text);
 }
 else if (text == 'I love u'){
 conn.sendMessage(id, 'love you too' ,MessageType.text);
 }
 else if (text == 'Mas'){
-conn.sendMessage(id, 'Ya?, Ketik =help/=info/=donasi Contoh =help' ,MessageType.text);
+conn.sendMessage(id, 'Ya?, Ketik >help/>info/>donasi Contoh >help' ,MessageType.text);
 }
 else if (text == 'Mba'){
-conn.sendMessage(id, 'Ya?, Ketik =help/=info/=donasi Contoh =help' ,MessageType.text);
+conn.sendMessage(id, 'Ya?, Ketik >help/>info/>donasi Contoh >help' ,MessageType.text);
 }
 else if (text == 'Bre'){
-conn.sendMessage(id, 'Ya?, Ketik =help/=info/=donasi Contoh =help' ,MessageType.text);
+conn.sendMessage(id, 'Ya?, Ketik >help/>info/>donasi Contoh >help' ,MessageType.text);
 }
 else if (text == 'Cuy'){
-conn.sendMessage(id, 'Ya?, Ketik =help/=info/=donasi Contoh =help' ,MessageType.text);
+conn.sendMessage(id, 'Ya?, Ketik >help/>info/>donasi Contoh >help' ,MessageType.text);
 }
 else if (text == 'Euy'){
-conn.sendMessage(id, 'Ya?, Ketik =help/=info/=donasi Contoh =help' ,MessageType.text);
+conn.sendMessage(id, 'Ya?, Ketik >help/>info/>donasi Contoh >help' ,MessageType.text);
 }
 else if (text == 'makasi'){
 conn.sendMessage(id, 'Sama sama, semoga harimu menyenangkan :)' ,MessageType.text);
